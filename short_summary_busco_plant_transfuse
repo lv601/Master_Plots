@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: transfuse_assembly.fasta
+#BUSCO was run in mode: trans
+
+Summarized benchmarks in BUSCO notation:
+	C:91%[D:82%],F:2.8%,M:5.7%,n:956
+
+Representing:
+	90	Complete Single-copy BUSCOs
+	784	Complete Duplicated BUSCOs
+	27	Fragmented BUSCOs
+	55	Missing BUSCOs
+	956	Total BUSCO groups searched

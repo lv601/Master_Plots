@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: All_assemblies.okay.tr.fasta
+#BUSCO was run in mode: trans
+
+Summarized benchmarks in BUSCO notation:
+	C:87%[D:22%],F:2.6%,M:10%,n:956
+
+Representing:
+	616	Complete Single-copy BUSCOs
+	217	Complete Duplicated BUSCOs
+	25	Fragmented BUSCOs
+	98	Missing BUSCOs
+	956	Total BUSCO groups searched

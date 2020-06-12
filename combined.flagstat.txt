@@ -1,0 +1,432 @@
+::::::::::::::
+All_assemblies.okay.tr.fasta.bam_flagstat.txt
+::::::::::::::
+41830374 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+34589834 + 0 mapped (82.69% : N/A)
+41830374 + 0 paired in sequencing
+20915187 + 0 read1
+20915187 + 0 read2
+34589834 + 0 properly paired (82.69% : N/A)
+34589834 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_21.fasta.bam_flagstat.txt
+::::::::::::::
+45496108 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+39652624 + 0 mapped (87.16% : N/A)
+45496108 + 0 paired in sequencing
+22748054 + 0 read1
+22748054 + 0 read2
+39652624 + 0 properly paired (87.16% : N/A)
+39652624 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_23.fasta.bam_flagstat.txt
+::::::::::::::
+45165596 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+39832432 + 0 mapped (88.19% : N/A)
+45165596 + 0 paired in sequencing
+22582798 + 0 read1
+22582798 + 0 read2
+39832432 + 0 properly paired (88.19% : N/A)
+39832432 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_25.fasta.bam_flagstat.txt
+::::::::::::::
+46393782 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+41463778 + 0 mapped (89.37% : N/A)
+46393782 + 0 paired in sequencing
+23196891 + 0 read1
+23196891 + 0 read2
+41463778 + 0 properly paired (89.37% : N/A)
+41463778 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_27.fasta.bam_flagstat.txt
+::::::::::::::
+46062066 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+41448568 + 0 mapped (89.98% : N/A)
+46062066 + 0 paired in sequencing
+23031033 + 0 read1
+23031033 + 0 read2
+41448568 + 0 properly paired (89.98% : N/A)
+41448568 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_29.fasta.bam_flagstat.txt
+::::::::::::::
+46616628 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+42352064 + 0 mapped (90.85% : N/A)
+46616628 + 0 paired in sequencing
+23308314 + 0 read1
+23308314 + 0 read2
+42352064 + 0 properly paired (90.85% : N/A)
+42352064 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_31.fasta.bam_flagstat.txt
+::::::::::::::
+45889176 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+41384416 + 0 mapped (90.18% : N/A)
+45889176 + 0 paired in sequencing
+22944588 + 0 read1
+22944588 + 0 read2
+41384416 + 0 properly paired (90.18% : N/A)
+41384416 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_41.fasta.bam_flagstat.txt
+::::::::::::::
+48414892 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+44491442 + 0 mapped (91.90% : N/A)
+48414892 + 0 paired in sequencing
+24207446 + 0 read1
+24207446 + 0 read2
+44491442 + 0 properly paired (91.90% : N/A)
+44491442 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_51.fasta.bam_flagstat.txt
+::::::::::::::
+51943706 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+48038168 + 0 mapped (92.48% : N/A)
+51943706 + 0 paired in sequencing
+25971853 + 0 read1
+25971853 + 0 read2
+48038168 + 0 properly paired (92.48% : N/A)
+48038168 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_61.fasta.bam_flagstat.txt
+::::::::::::::
+53619764 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+48776630 + 0 mapped (90.97% : N/A)
+53619764 + 0 paired in sequencing
+26809882 + 0 read1
+26809882 + 0 read2
+48776630 + 0 properly paired (90.97% : N/A)
+48776630 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_71.fasta.bam_flagstat.txt
+::::::::::::::
+50908486 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+43117500 + 0 mapped (84.70% : N/A)
+50908486 + 0 paired in sequencing
+25454243 + 0 read1
+25454243 + 0 read2
+43117500 + 0 properly paired (84.70% : N/A)
+43117500 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+GapClosed_SOAP_81.fasta.bam_flagstat.txt
+::::::::::::::
+40080044 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+15041174 + 0 mapped (37.53% : N/A)
+40080044 + 0 paired in sequencing
+20040022 + 0 read1
+20040022 + 0 read2
+15041174 + 0 properly paired (37.53% : N/A)
+15041174 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+Trinity.fasta.bam_flagstat.txt
+::::::::::::::
+80198712 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+77631948 + 0 mapped (96.80% : N/A)
+80198712 + 0 paired in sequencing
+40099356 + 0 read1
+40099356 + 0 read2
+77631948 + 0 properly paired (96.80% : N/A)
+77631948 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases21.fasta.bam_flagstat.txt
+::::::::::::::
+97747276 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+90720180 + 0 mapped (92.81% : N/A)
+97747276 + 0 paired in sequencing
+48873638 + 0 read1
+48873638 + 0 read2
+90720180 + 0 properly paired (92.81% : N/A)
+90720180 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases23.fasta.bam_flagstat.txt
+::::::::::::::
+96629882 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+90131574 + 0 mapped (93.28% : N/A)
+96629882 + 0 paired in sequencing
+48314941 + 0 read1
+48314941 + 0 read2
+90131574 + 0 properly paired (93.28% : N/A)
+90131574 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases25.fasta.bam_flagstat.txt
+::::::::::::::
+95794592 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+89804886 + 0 mapped (93.75% : N/A)
+95794592 + 0 paired in sequencing
+47897296 + 0 read1
+47897296 + 0 read2
+89804886 + 0 properly paired (93.75% : N/A)
+89804886 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases27.fasta.bam_flagstat.txt
+::::::::::::::
+94305948 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+88660056 + 0 mapped (94.01% : N/A)
+94305948 + 0 paired in sequencing
+47152974 + 0 read1
+47152974 + 0 read2
+88660056 + 0 properly paired (94.01% : N/A)
+88660056 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases29.fasta.bam_flagstat.txt
+::::::::::::::
+92442562 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+87025126 + 0 mapped (94.14% : N/A)
+92442562 + 0 paired in sequencing
+46221281 + 0 read1
+46221281 + 0 read2
+87025126 + 0 properly paired (94.14% : N/A)
+87025126 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases31.fasta.bam_flagstat.txt
+::::::::::::::
+91811636 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+86608942 + 0 mapped (94.33% : N/A)
+91811636 + 0 paired in sequencing
+45905818 + 0 read1
+45905818 + 0 read2
+86608942 + 0 properly paired (94.33% : N/A)
+86608942 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases33.fasta.bam_flagstat.txt
+::::::::::::::
+90449072 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+85521250 + 0 mapped (94.55% : N/A)
+90449072 + 0 paired in sequencing
+45224536 + 0 read1
+45224536 + 0 read2
+85521250 + 0 properly paired (94.55% : N/A)
+85521250 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases35.fasta.bam_flagstat.txt
+::::::::::::::
+86174554 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+81208440 + 0 mapped (94.24% : N/A)
+86174554 + 0 paired in sequencing
+43087277 + 0 read1
+43087277 + 0 read2
+81208440 + 0 properly paired (94.24% : N/A)
+81208440 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases41.fasta.bam_flagstat.txt
+::::::::::::::
+83546084 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+79022438 + 0 mapped (94.59% : N/A)
+83546084 + 0 paired in sequencing
+41773042 + 0 read1
+41773042 + 0 read2
+79022438 + 0 properly paired (94.59% : N/A)
+79022438 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases51.fasta.bam_flagstat.txt
+::::::::::::::
+75848566 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+70766092 + 0 mapped (93.30% : N/A)
+75848566 + 0 paired in sequencing
+37924283 + 0 read1
+37924283 + 0 read2
+70766092 + 0 properly paired (93.30% : N/A)
+70766092 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases61.fasta.bam_flagstat.txt
+::::::::::::::
+69585528 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+63693442 + 0 mapped (91.53% : N/A)
+69585528 + 0 paired in sequencing
+34792764 + 0 read1
+34792764 + 0 read2
+63693442 + 0 properly paired (91.53% : N/A)
+63693442 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases71.fasta.bam_flagstat.txt
+::::::::::::::
+60884622 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+52467452 + 0 mapped (86.18% : N/A)
+60884622 + 0 paired in sequencing
+30442311 + 0 read1
+30442311 + 0 read2
+52467452 + 0 properly paired (86.18% : N/A)
+52467452 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+velvet-oases81.fasta.bam_flagstat.txt
+::::::::::::::
+41502484 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+16647728 + 0 mapped (40.11% : N/A)
+41502484 + 0 paired in sequencing
+20751242 + 0 read1
+20751242 + 0 read2
+16647728 + 0 properly paired (40.11% : N/A)
+16647728 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+::::::::::::::
+z_transfuse_assembly.fasta.bam_flagstat.txt
+::::::::::::::
+314029022 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+312308168 + 0 mapped (99.45% : N/A)
+314029022 + 0 paired in sequencing
+157014511 + 0 read1
+157014511 + 0 read2
+312308168 + 0 properly paired (99.45% : N/A)
+312308168 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
